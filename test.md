@@ -15,7 +15,7 @@ This is a markdown file that demonstrates various types of content.
 [Google](https://www.google.com)
 
 ### Images
-![Image Example](https://via.placeholder.com/150)
+![Image Example]([https://via.placeholder.com/150](https://picsum.photos/536/354))
 
 ### Code Block
 ```python
