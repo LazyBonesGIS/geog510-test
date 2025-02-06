@@ -1,5 +1,4 @@
-markdown
-Copy
+
 # My Markdown File
 
 ## Introduction
